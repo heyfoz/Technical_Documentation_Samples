@@ -1,5 +1,12 @@
-# Windows 10 Technical Writing Sample
-Technical writing sample demonstrating knowledge of Windows 10 operating system.
+# Technical Writing Samples
+Technical writing samples demonstrating knowledge of Windows 10 operating system, Java software development, and emerging technologies.
+
+This document contains over 40 pages of technical documentation written for academic and professional settings. Some of the content within this document has been utilized as examples in the curriculum for Technical Writing (ENGL 202C) at Pennsylvania State University World Campus. Enjoy!
+
+- Technical Description: Touch Screen Displays (pg. 2)
+- Instruction Set: Java Integrated Development Environment Installation for Mac (pg. 10)
+- Instruction Set: Windows 10 Features (pg. 26)
+- Internet Resource Guide: Software Development (pg. 33)
 
 Please view the PDF in the project files or select this link to download it directly: 
-[Forrest Moulin - Windows 10 Technical Writing Sample.pdf](https://github.com/ffm5113/TechnicalWritingSample/files/9523332/Forrest.Moulin.-.Windows.10.Technical.Writing.Sample.pdf)
+[Forrest Moulin - Technical Writing Samples 2022.pdf](https://github.com/ffm5113/Technical_Writing_Samples/files/9524065/Forrest.Moulin.-.Technical.Writing.Samples.2022.pdf)
