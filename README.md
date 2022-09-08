@@ -1,5 +1,5 @@
 # Technical Writing Samples
-Technical writing samples demonstrating knowledge of Windows 10 operating system, Java software development, and emerging technologies.
+Technical writing samples demonstrating knowledge of the Windows 10 operating system, Java software development, and emerging technologies.
 
 This document contains over 40 pages of technical documentation written for academic and professional settings. Some of the content within this document has been utilized as examples in the curriculum for Technical Writing (ENGL 202C) at Pennsylvania State University World Campus. Enjoy!
 
