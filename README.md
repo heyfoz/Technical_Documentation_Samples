@@ -11,3 +11,5 @@ This document contains over 40 pages of technical documentation written for acad
 Please view the PDF in the project files or select this link to download it directly:
 <br>
 [Forrest Moulin - Technical Writing Samples 2022.pdf](https://github.com/ffm5113/Technical_Writing_Samples/files/9524065/Forrest.Moulin.-.Technical.Writing.Samples.2022.pdf)
+
+Copyright (c) 2022 ffm5113
