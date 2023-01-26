@@ -1,7 +1,7 @@
 # Technical Documentation Samples
 Technical documentation samples demonstrating knowledge of the Windows 10 operating system, Java software development, C++ debugging, and emerging technologies.
 
-This document contains over 60 pages of technical documentation written for academic and professional settings. Some of the content within this document has been utilized as examples in the curriculum for Technical Writing (ENGL 202C) at Pennsylvania State University World Campus. Enjoy!
+This document contains over 70 pages of technical documentation written for academic and professional settings. Some of the content within this document has been utilized as examples in the curriculum for Technical Writing (ENGL 202C) at Pennsylvania State University World Campus. Enjoy!
 
 - User Interface Manual for JavaFX Application (pg. 2)
 - C++ Selection Logic and Debugging Documentation (pg. 12)
